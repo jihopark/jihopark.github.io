@@ -10,7 +10,6 @@ title:         jiho-ml
 tagline:       'jihopark'
 description:   'I write about machine learning, NLP, AI and product dev.'
 url:           'http://jihopark.github.io'
-baseurl:       /
 
 author:
   name:        'jihopark'
