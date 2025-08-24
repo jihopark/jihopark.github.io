@@ -22,6 +22,7 @@ paginate:      5
 # Plugins
 plugins:
   - jekyll-paginate
+  - jekyll-relative-links
 
 # Custom vars
 version:       2.1.0
