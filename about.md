@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
 <p class="message">
-  [RECENT UPDATE] I moved to Mountain View, California in December 24, concluding my chapter in Tokyo!
+  [UPDATE 💡] I moved to Mountain View, California in December 24, concluding my chapter in Tokyo!
 
-  Also, I joined [labs.google](https://labs.google/) to make a new AI product for Google on July 25, leaving Gemini App team.
+  Also, I joined Google Labs to make a new AI product for Google on July 25, leaving Gemini App team.
 </p>
 
 Hi, I'm Jiho. I am a product developer and researcher, building products with machine learning and natural language processing (NLP).
@@ -15,10 +15,10 @@ I like to write about machine learning, NLP, AI and product development. I also 
 
 Currently, I am working on a new AI product that aims to innovate how people work.
 
-I've been at Google since 2020, starting from Japan, working on these products/programs:
+I've been at Google since 2020, starting from Japan, working on these products:
 
-1. [labs.google](https://labs.google/) 
-2. [gemini.google.com](https://gemini.google.com/app)
+1. [labs.google](https://labs.google/),
+2. [gemini.google.com](https://gemini.google.com/app),
 3. [Assistant](https://assistant.google.com/) (OK Google)
 
 I am interested in various areas of AI/ML/NLP product building:
