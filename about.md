@@ -4,27 +4,37 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  [RECENT UPDATE] I moved to Mountain View, California in December 24, concluding my chapter in Tokyo!
+
+  Also, I joined [labs.google](https://labs.google/) to make a new AI product for Google on July 25, leaving Gemini App team.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hi, I'm Jiho. I am a product developer and researcher, building products with machine learning and natural language processing (NLP).
 
-There are currently two themes built on Poole:
+I like to write about machine learning, NLP, AI and product development. I also write [in Korean](https://www.jiho-ml.com).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Currently, I am working on a new AI product that aims to innovate how people work.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I've been at Google since 2020, starting from Japan, working on these products/programs:
 
-## Setup
+1. [labs.google](https://labs.google/) 
+2. [gemini.google.com](https://gemini.google.com/app)
+3. [Assistant](https://assistant.google.com/) (OK Google)
 
-Some fun facts about the setup of this project include:
+I am interested in various areas of AI/ML/NLP product building:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+* Context Engineering,
+* User Experience (UX) Design,
+* User Behavior Logging & Data Mining, 
+* Data Engineering Infrastructure,
+* Multilingual NLP
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Before Google, I was doing [NLP research](https://scholar.google.com/citations?user=HGtOgDIAAAAJ&hl=en&oi=sra) at HKUST.
 
-Thanks for reading!
+I worked in multiple startups in Korea, HK as an intern, founding engineer, employee, etc.
+
+Since 2023, I participate in Google for Startup Accelerator (GFSA) Korea program as a tech mentor.
+
+I grew up in Korea, but spent most of my 20s in Hong Kong, and then 5 years in Japan! I picked up different culture and languages along the way! 
+
+Feel free to reach out via email (me at jiho-ml.com)!
