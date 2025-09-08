@@ -29,6 +29,17 @@
       <a class="sidebar-nav-item" href="http://www.jiho-ml.com">한국어 블로그</a>
     </nav>
 
+    <div class="sidebar-tags">
+      <h3>Tags</h3>
+      <ul>
+        {% assign tags = site.tags | sort %}
+        {% for tag in tags %}
+          {% assign tag_name = tag[0] %}
+          <li><a href="/tags/#{{ tag_name | slugify }}">{{ tag_name }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>

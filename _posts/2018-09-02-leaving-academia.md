@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Leaving academia for a startup
+tags: [personal]
+
 ---
 
 Two years in Academia was great.
