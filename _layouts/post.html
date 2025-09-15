@@ -9,7 +9,7 @@ layout: default
   <div class="post-tags">
     <span>Tags: </span>
     {% for tag in page.tags %}
-    <a class="tag" href="{{site.baseurl}}/archive.html#{{tag | slugize}}">{{ tag }}</a>{% unless forloop.last %} {% endunless %}
+    <a class="tag" href="{{ '/archive.html#' | append: (tag | slugize) | relative_url }}">{{ tag }}</a>{% unless forloop.last %} {% endunless %}
     {% endfor %}
   </div>
   {% endif %}
@@ -22,7 +22,7 @@ layout: default
     {% for post in site.related_posts limit:3 %}
       <li>
         <h3>
-          <a href="{{ post.url }}">
+          <a href="{{ post.url | relative_url }}">
             {{ post.title }}
             <small>{{ post.date | date_to_string }}</small>
           </a>
