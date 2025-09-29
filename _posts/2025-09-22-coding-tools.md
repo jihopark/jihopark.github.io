@@ -8,7 +8,7 @@ tags: [llm-products]
 Google IO 2023 was one of the most memorable event, because our CEO Sundar presented a piece of code that I reviewed.
 
 <p align="center">
-  <img src="/images/llms-are-engines/google_io_2023.jpg" alt="Google IO 2023 code demo" style="max-width: 100%; height: auto;">
+  <img src="/images/coding-tools/google_io_2023.jpg" alt="Google IO 2023 code demo" style="max-width: 100%; height: auto;">
   <figcaption style="text-align:center; font-style:italic;">
     My code being presented at Google IO 2023.
   </figcaption>
