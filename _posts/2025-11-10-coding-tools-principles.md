@@ -8,7 +8,7 @@ tags: [llm-products]
 
 
 <p align="center">
-  <img src="/images/coding-tools-2/quadrants.png" alt="Quadrants" style="max-width: 100%; height: auto;">
+  <img src="/images/coding-tools-2/quardrants.png" alt="Quadrants" style="max-width: 100%; height: auto;">
 </p>
 
 # Mindset
