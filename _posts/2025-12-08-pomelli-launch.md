@@ -60,7 +60,7 @@ In the end, we are having unbelieveable amounts of users coming in and trying ou
 
 The philosophy of Google Labs is to launch early and validate fast. In a huge company like Google, it may be hard to have this kind of mentality and environment. Google Labs is literally a product labatory to avoid falling into such trap. 
 
-Just go take a look at https://labs.google and see what we are doing. There are many things that are hard to imagine a large company like Google would work on.
+Just go take a look at [labs.google](https://labs.google) and see what we are doing. There are many things that are hard to imagine a large company like Google would work on.
 
 After launching Pomelli, I am now starting to understand and experience what this philosophy actually means.
 
@@ -68,14 +68,14 @@ After launching Pomelli, I am now starting to understand and experience what thi
 
 That does not mean that we are aiming for small things. We are launching fast, but these are just seeds of something that is potentially much bigger. 
 
-For example, Pomelli is not just another content generation tool, but it may become an ultimate operating platform for small and medium sized businesses, which Google has traditionally not been great at. 
-
-Forbes already analyzed the potential of our product - https://www.forbes.com/sites/solrashidi/2025/10/31/will-googles-ai-bet-pay-off/
+For example, Pomelli is not just another content generation tool, but it may become an ultimate AI operating platform for small and medium sized businesses, which Google has traditionally not been great at. [Forbes](https://www.forbes.com/sites/solrashidi/2025/10/31/will-googles-ai-bet-pay-off/) already analyzed the potential of our product!
 
 For this reason, we need to think big and look multiple steps ahead, but need to start somewhere.
 
 --
 
-This launch is one of the highlights of my whole programming career. I'm very happy that I decided to join this org and team and launch something with the team so fast.
+This launch is one of the highlights of my whole programming career. I'm very happy that I decided to join this org and team and launch something with the team so fast. 
+
+We will continue to launch more features into Pomelli.
 
 I am learning and experiencing a lot of interesting product and engineering problems, so I'm looking to write more on those things.
