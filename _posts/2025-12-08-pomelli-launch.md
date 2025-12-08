@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My 1st Google Labs Product Launch: Pomelli
+title: My 1st Google Labs Product Launch - Pomelli
 tags: [llm-products]
 
 ---
