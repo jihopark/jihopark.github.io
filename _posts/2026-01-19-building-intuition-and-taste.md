@@ -31,9 +31,8 @@ I thought it's funny that I had to show positive sentiment here and also ask for
 
 And then surprisingly Claude said:
 
-<p align="center">
-  <img src="/images/building-intuition/claude2.png" alt="claude_screenshot2" style="max-width: 100%; height: auto;">
-</p>
+`Good question. Currently we use SQL LIKE %term% which handles partial matches but not typos. My recommendation: Skip fuzzy matching for now.
+Claude is already pretty good at normalizing input before calling tools. If you say "banannas", Claude will likely call the tool with "bananas".`
 
 Wow, this kind of pushback is something a good junior engineer would do. Mind blowing!
 
