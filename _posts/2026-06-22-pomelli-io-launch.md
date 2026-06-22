@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From Zero to Launch: Early Learnings from Building Pomelli at Google Labs
+title: Early Learnings from Building Pomelli at Google Labs
 tags: [llm-products]
 date: 2026-06-22
 
